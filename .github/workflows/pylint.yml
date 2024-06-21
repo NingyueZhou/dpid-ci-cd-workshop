@@ -1,5 +1,5 @@
 name: pylinter
-  uses: programmingwithalex/pylinter@v1.4.3
+  #uses: programmingwithalex/pylinter@v1.4.3
 
 on: [push]
 
